@@ -1,4 +1,7 @@
 body {
     background-image: url();
-    font-family: 'Josefin-Sans';
+    font-family: 'Josefin-Sans', serif;
+}
+h1 {
+    font-family: 'Josefin-Sans', serif;
 }
