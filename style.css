@@ -5,6 +5,7 @@ body {
     background-size: auto;
     font-family: 'Josefin Sans', sans-serif;
 }
+
 h1 {
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
@@ -40,4 +41,29 @@ li a:hover {
   background-color: rgb(107, 107, 107);
 }
 
+.middle {
+  justify-self: center;
+  padding-left: 25%;
+  padding-right: 25%;
+  font-size: 150%;
+  letter-spacing: 10%;
+}
 
+.infolist {
+  padding: 1.5% 1.5% 1.5% 1.5%;
+  margin-left: 38%;
+  margin-right: 38%;
+}
+ .infolist ul li {
+   display: inline;
+   letter-spacing: 10%;
+ }
+ 
+ .dp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1%;
+  border-radius: 25%;
+ }
+ 
