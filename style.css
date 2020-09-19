@@ -79,7 +79,7 @@ p {
   display: block;
   margin: auto;
   width: 18%;
-  border-radius: 50%;
+  border-radius: 0% 40% 0% 40%;
  }
 
 #textlink {
